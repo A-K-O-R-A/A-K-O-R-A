@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
-**A-K-O-R-A/A-K-O-R-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ![Metrics](https://github.com/A-K-O-R-A/A-K-O-R-A/blob/master/github-metrics.svg)
 
-
+<!--
+**A-K-O-R-A/A-K-O-R-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
