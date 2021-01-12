@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-![Metrics](https://github.com/A-K-O-R-A/A-K-O-R-A/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/A-K-O-R-A?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
 
 <!--
 **A-K-O-R-A/A-K-O-R-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
