@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/A-K-O-R-A/A-K-O-R-A/blob/master/github-metrics.svg)
+![Metrics](https://github.com/A-K-O-R-A/A-K-O-R-A/blob/main/github-metrics.svg)
 
 <!--
 ![Metrics](https://metrics.lecoq.io/A-K-O-R-A?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
