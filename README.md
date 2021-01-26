@@ -3,6 +3,7 @@
 ![Metrics](https://github.com/A-K-O-R-A/A-K-O-R-A/blob/main/github-metrics.svg)
 
 <!--
+![Metrics](https://github-readme-stats.vercel.app/api?username=A-K-O-R-A&show_icons=true&hide_border=true&bg_color=000000&title_color=fff&text_color=6a6a6a&icon_color=79ff97)
 ![Metrics](https://metrics.lecoq.io/A-K-O-R-A?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin)
 **A-K-O-R-A/A-K-O-R-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
