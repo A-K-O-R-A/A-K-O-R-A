@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/A-K-O-R-A/A-K-O-R-A/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 <!--
 ![Metrics](https://github-readme-stats.vercel.app/api?username=A-K-O-R-A&show_icons=true&hide_border=true&bg_color=000000&title_color=fff&text_color=6a6a6a&icon_color=79ff97)
