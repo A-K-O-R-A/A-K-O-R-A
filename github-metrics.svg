@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2588" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2904" class="">
     <defs>
         <style/>
     </defs>
@@ -512,12 +512,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 56 commits)</small>
+                    <small class="h-details">(computed from last 57 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.0 characters per line of code written</li>
+                        <li>Has approximately 28.5 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -2956,6 +2956,240 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 38 commits in
+                                        <span class="repo">A-K-O-R-A/DefinitelyTyped</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7d0f1ff</div>
+                                        <div class="message">🤖 Merge PR #59126 [radium] Remove usage of implicit children in tests by @eps1lon
+
+https://github.com/FormidableLabs/radium/blob/v0.24.1/src/components/style.js#L97-L105</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0c7629</div>
+                                        <div class="message">🤖 Merge PR #59120 chore: sync updates to google.maps by @googlemaps-bot
+
+Co-authored-by: copybara-service[bot] &lt;copybara-service[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b364f3d</div>
+                                        <div class="message">Add TurboModule and TurboModuleRegistry to react-native (#59101)
+
+* Add TurboModule and TurboModuleRegistry
+
+* Create turbo-module-sample.ts
+
+* Add my name
+
+* Index new test file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b30a48</div>
+                                        <div class="message">Fix version in header in @ckeditor/ckeditor5-engine (#59107)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fa4d17</div>
+                                        <div class="message">Fix typo in `@types/koa-bodyparser` (#59113)
+
+According to [https://github.com/stream-utils/raw-body#api](https://github.com/stream-utils/raw-body#api)
+
+It's `options.encoding` instead of `options.encode`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe4fb89</div>
+                                        <div class="message">🤖 Merge PR #59016 [react-alert] Update .d.ts to v7 and add v4 by @g1eny0ung
+
+* chore: update
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: update v2
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: add v3 and v4
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: add v5
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: use factory to generate AlertContainer
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: add v7
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* test: options
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix(try): ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix(try): ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix(try): ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix(try): ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: remove relative imports
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: remove commas
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: add missing offset
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: update
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: update
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix: ci
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: remove version comments
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* fix(exactOptionalPropertyTypes): re-add undefined
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;
+
+* chore: remove v3 and v5
+
+Signed-off-by: Yue Yang &lt;g1enyy0ung@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e70e59</div>
+                                        <div class="message">🤖 Merge PR #59086 [@paypal/checkout-server-sdk] don't use enum for CheckoutPaymentIntent by @Retsam</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c3b1fa</div>
+                                        <div class="message">🤖 Merge PR #59060 docusign-esign: make constructor param optional for ApiClient by @soundoff
+
+Co-authored-by: Shaun Sandlin &lt;ssandlin@wealthforge.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2eac13</div>
+                                        <div class="message">🤖 Merge PR #59083 Fixes for @ckeditor/ckeditor-engine DowncastWriter by @fedemp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a048906</div>
+                                        <div class="message">🤖 Merge PR #59095 Update @ckeditor/ckeditor5-real-time-collaboration to v32 by @fedemp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c311a7</div>
+                                        <div class="message">🤖 Merge PR #59096 Update @ckeditor/ckeditor5-autosave to v32 by @fedemp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ed4567</div>
+                                        <div class="message">Fix ContextPlugin and PendingActions in @ckeditor/ckeditor5-core (#59085)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#597a8ab</div>
+                                        <div class="message">VS Code 1.65.0 Extension API (#59099)
+
+Co-authored-by: VSCode &lt;vscode@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da9ff8c</div>
+                                        <div class="message">[nconf] Version is string, not number (#58749)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb1656b</div>
+                                        <div class="message">Update @ckeditor/ckeditor5-ui to v32 (#59078)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#678f902</div>
+                                        <div class="message">Add definitions for canvas-multiline-text 1.0.3 (#59082)
+
+* New types for canvas-multiline-text package
+
+* Resolve dtslint issues
+
+* Resolve dtslint issues
+
+* Improve Test
+
+* Add second owner</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a08cfb</div>
+                                        <div class="message">New typings for package simple-datatables (#59094)
+
+* simple-datatables
+
+* prettier
+
+Co-authored-by: Jonatas &lt;jonatas.moraes@redeancora.com.br&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e8960e</div>
+                                        <div class="message">[xrm] Deprecate setDisplayState() (#58758)
+
+* Add tab.setFocus() and deprecate setDisplayState()
+
+* Add example of tab.setFocus()
+
+* No need for explicit setFocus()</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66d931d</div>
+                                        <div class="message">🤖 Merge PR #59007 [office-js] [office-js-preview] (Common API) Update FileType enum and coercionType table by @alison-mk
+
+* [Common API] Update FileType enum description
+
+* [Common API] Update coercionType table</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3320c95</div>
+                                        <div class="message">🤖 Merge PR #58689 mapbox-gl: add string[] type to on() layer events by @neutraltone</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">AKORA-Studios/DiscordWelcomeCard</span>
                                     </div>
@@ -3022,26 +3256,6 @@
                                     <div class="commit">
                                         <div class="sha">#542b6f1</div>
                                         <div class="message">Improve examples section</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">A-K-O-R-A/DefinitelyTyped</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7c700dc</div>
-                                        <div class="message">Add second owner</div>
                                     </div>
                                 </div>
                             </section>
@@ -3605,7 +3819,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2022, 10:42:53 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 10:54:38 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
