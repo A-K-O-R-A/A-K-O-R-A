@@ -502,7 +502,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 127 commits)</small>
+                    <small class="h-details">(computed from last 128 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2971,6 +2971,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AKORA-Studios/openwb-backend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">auth</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#460e4a0</div>
+                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Reduce Reconnect Logging</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">AKORA-Studios/openwb-backend</span>
                                     </div>
@@ -3044,26 +3064,6 @@
                                     <div class="commit">
                                         <div class="sha">#26d6b9b</div>
                                         <div class="message">Add Ladelog</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AKORA-Studios/vplan_server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d48e40</div>
-                                        <div class="message">Update mod.ts</div>
                                     </div>
                                 </div>
                             </section>
@@ -3627,7 +3627,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2022, 15:10:54 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 15:28:23 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
