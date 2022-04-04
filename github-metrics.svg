@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AKORA-Studios/openwb-backend</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A server that provides a easier http interface to values from your OpenWB instance, primarly used for the OpenWB App.</div>
@@ -3346,7 +3346,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 969k out of 88m users</span>
+                                    <span class="gh">ranked 968k out of 88m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -3606,7 +3606,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2022, 16:42:26 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 4 Apr 2022, 16:54:21 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
