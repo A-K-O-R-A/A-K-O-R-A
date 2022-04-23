@@ -3360,7 +3360,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/f87a4c80-d878-4859-b18b-a8b371cbe0e4?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 425k out of 301m repositories</span>
+                                    <span class="gh">ranked 425k out of 302m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">53</div>
                                     </div>
@@ -3537,7 +3537,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/f87a4c80-d878-4859-b18b-a8b371cbe0e4?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.09m out of 301m repositories</span>
+                                    <span class="gh">ranked 2.09m out of 302m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3639,7 +3639,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/f87a4c80-d878-4859-b18b-a8b371cbe0e4?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2022, 08:17:54 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 08:42:22 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
