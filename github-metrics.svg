@@ -2993,7 +2993,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-3132d995df317dedc7e22b5533d9dc53</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dfe4875</div>
+                                        <div class="sha">#c275b3c</div>
                                         <div class="message">fix: upgrade axios from 0.26.1 to 0.27.2
 
 Snyk has created this PR to upgrade axios from 0.26.1 to 0.27.2.
@@ -3053,7 +3053,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-3132d995df317dedc7e22b5533d9dc53</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7bf9de5</div>
+                                        <div class="sha">#dfe4875</div>
                                         <div class="message">fix: upgrade axios from 0.26.1 to 0.27.2
 
 Snyk has created this PR to upgrade axios from 0.26.1 to 0.27.2.
@@ -3626,7 +3626,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2022, 03:56:37 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 05:49:00 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
