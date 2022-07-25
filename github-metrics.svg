@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LunarVim/Neovim-from-scratch</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim config designed from scratch to be understandable</div>
@@ -3592,7 +3592,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2022, 01:42:19 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 01:53:59 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
