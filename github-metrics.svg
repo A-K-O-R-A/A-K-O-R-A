@@ -2651,7 +2651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaarsene/start</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser startpage</div>
@@ -3394,7 +3394,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 389k out of 328m repositories</span>
+                                    <span class="gh">ranked 390k out of 328m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">62</div>
                                     </div>
@@ -3634,7 +3634,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2022, 16:08:43 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 16:30:32 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
