@@ -3428,7 +3428,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/8679403e-42c1-46f6-abf7-60be06ef5c3a?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 874k out of 95m users</span>
+                                    <span class="gh">ranked 872k out of 95m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -3613,7 +3613,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/8679403e-42c1-46f6-abf7-60be06ef5c3a?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2022, 18:38:01 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 19:07:17 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
