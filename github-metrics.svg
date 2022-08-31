@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2435" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2418" class="">
     <defs>
         <style/>
     </defs>
@@ -2989,7 +2989,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-3132d995df317dedc7e22b5533d9dc53</span></div>
                                     <div class="commit">
-                                        <div class="sha">#714dd9d</div>
+                                        <div class="sha">#7865a26</div>
                                         <div class="message">fix: upgrade axios from 0.26.1 to 0.27.2
 
 Snyk has created this PR to upgrade axios from 0.26.1 to 0.27.2.
@@ -3028,9 +3028,9 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/types/jest-29.0.0</span>
+                                        <span class="code">snyk-upgrade-3132d995df317dedc7e22b5533d9dc53</span>
                                         in
-                                        <span class="repo">AKORA-Studios/DiscordWelcomeCard</span>
+                                        <span class="repo">discord-card/core</span>
                                     </div>
                                 </div>
                             </section>
@@ -3042,32 +3042,23 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">AKORA-Studios/DiscordWelcomeCard</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">discord-card/core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">snyk-upgrade-3132d995df317dedc7e22b5533d9dc53</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b35ad5</div>
-                                        <div class="message">Merge pull request #44 from AKORA-Studios/dependabot/npm_and_yarn/types/jest-29.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da51592</div>
-                                        <div class="message">Bump @types/jest from 28.1.1 to 29.0.0
+                                        <div class="sha">#714dd9d</div>
+                                        <div class="message">fix: upgrade axios from 0.26.1 to 0.27.2
 
-Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 28.1.1 to 29.0.0.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+Snyk has created this PR to upgrade axios from 0.26.1 to 0.27.2.
 
----
-updated-dependencies:
-- dependency-name: "@types/jest"
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
+See this package in npm:
+https://www.npmjs.com/package/axios
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+See this project in Snyk:
+https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?utm_source=github&amp;utm_medium=referral&amp;page=upgrade-pr</div>
                                     </div>
                                 </div>
                             </section>
@@ -3631,7 +3622,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 05:07:18 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 07:12:20 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
