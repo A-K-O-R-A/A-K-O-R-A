@@ -2572,7 +2572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libreddit/libreddit</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private front-end for Reddit</div>
@@ -3664,7 +3664,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2022, 17:47:15 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 6 Nov 2022, 18:03:54 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
