@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fsr/Stoffkiste</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 Lernstoffsammlung der Informatik</div>
@@ -3495,7 +3495,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.91m out of 361m repositories</span>
+                                    <span class="gh">ranked 2.82m out of 361m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -3635,7 +3635,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Dec 2022, 16:33:24 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 5 Dec 2022, 16:45:09 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
