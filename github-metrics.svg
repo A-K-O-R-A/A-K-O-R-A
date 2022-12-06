@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fsr/Stoffkiste</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 Lernstoffsammlung der Informatik</div>
@@ -3643,7 +3643,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Dec 2022, 14:32:29 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 6 Dec 2022, 14:44:25 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
