@@ -2999,7 +2999,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-dd7e6d641f219f2b74c816809306e77a</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e01985</div>
+                                        <div class="sha">#dafd83e</div>
                                         <div class="message">fix: upgrade canvas from 2.9.1 to 2.10.2
 
 Snyk has created this PR to upgrade canvas from 2.9.1 to 2.10.2.
@@ -3059,7 +3059,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-dd7e6d641f219f2b74c816809306e77a</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ef65c3</div>
+                                        <div class="sha">#4e01985</div>
                                         <div class="message">fix: upgrade canvas from 2.9.1 to 2.10.2
 
 Snyk has created this PR to upgrade canvas from 2.9.1 to 2.10.2.
@@ -3670,7 +3670,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2022, 06:13:57 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 21 Dec 2022, 06:28:09 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
