@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>A-K-O-R-A/boop-rs</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A clone of the Boop App for Mac OS, written in Rust with egui.</div>
@@ -3670,7 +3670,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2023, 05:25:52 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 12 Jan 2023, 05:41:25 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
