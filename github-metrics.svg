@@ -2725,7 +2725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libredirect/libredirect</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Dec 26 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web extension that redirects popular sites to alternative frontends and backends</div>
@@ -3549,7 +3549,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.95m out of 372m repositories</span>
+                                    <span class="gh">ranked 2.86m out of 372m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -3689,7 +3689,7 @@ https://app.snyk.io/org/a-k-o-r-a/project/1151d665-afc5-441b-b4da-be1b18245e41?u
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jan 2023, 19:42:51 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 19:55:07 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
